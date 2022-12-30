@@ -1,5 +1,9 @@
 # reconhecimento-mascara-tensorflow
-Projeto de dissertação iniciado em 2020
+Projeto de dissertação iniciado 2020. 
+Neste projeto foi usado os três modelos pré-treinados: YOLOv2, YOLOv3 e o até então estado da arte YOLOv4. O novo estado da arte YOLOv7 foi lançado somente em julho /2022, reconhecido pelo autor original da arquitetura YOLO.
+ 
+E foi usado seis modelos pré-treinados da Tensorflow API Object Detection: três Faster R-CNN e três SSD.
+Os resultados mostraram o SSD Mobilenet V2 FPNLite como um detector de máscara competitivo com o YOLOv4 e nas condições do projeto foi o escolhido como o detector mais eficiente.
 
 
 # Resultados
