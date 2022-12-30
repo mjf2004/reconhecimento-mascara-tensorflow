@@ -6,7 +6,7 @@ E foi usado seis modelos pré-treinados da Tensorflow API Object Detection: trê
 Os resultados mostraram o SSD Mobilenet V2 FPNLite como um detector de máscara competitivo com o YOLOv4 e nas condições do projeto foi o escolhido como o detector mais eficiente.
 
 
-# Resultados
+# Resultados Tensorflow API Object Detection
 
 As inferências foram realizadas em cinco imagens. Três fora do dataset de teste e duas do dataset de test. Cada imagem teve um critério analisado. Em cada modelo foi retirado os VP (verdadeiro positivo), FP (falso positivo) e FN (falso negativo). As imagens de exemplo pode ser visto abaixo e em seguida os resultados.
 ![image](https://user-images.githubusercontent.com/71648038/210080688-db595d0b-37ac-4934-9cfe-a362463c6735.png)
