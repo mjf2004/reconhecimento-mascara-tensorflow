@@ -7,6 +7,8 @@ Os resultados mostraram o SSD Mobilenet V2 FPNLite como um detector de máscara 
 
 A visualização dos resultados com o YOLO podem ser visto no repositório https://github.com/mjf2004/reconhecimento-mascara-yolo
 
+O hardware considerado para todos os experimentos, tanto para o treinamento e avaliação quanto para a inferência, são as seguintes: 2 Processadores Intel(R) Xeon(R) CPU @ 2.20GHz, 25 GB de memória RAM e placa de vídeo Tesla P100-PCIE, informações retiradas no terminal do Google Colaboratory.
+
 
 # Resultados Tensorflow API Object Detection
 
