@@ -5,6 +5,8 @@ Neste projeto foi usado os três modelos pré-treinados: YOLOv2, YOLOv3 e o até
 E foi usado seis modelos pré-treinados da Tensorflow API Object Detection: três Faster R-CNN e três SSD.
 Os resultados mostraram o SSD Mobilenet V2 FPNLite como um detector de máscara competitivo com o YOLOv4 e nas condições do projeto foi o escolhido como o detector mais eficiente.
 
+![image](https://user-images.githubusercontent.com/71648038/210140248-faaa1af3-83d1-4d45-bbcc-afe6b795c7c5.png)
+
 A visualização dos resultados com o YOLO podem ser visto no repositório https://github.com/mjf2004/reconhecimento-mascara-yolo
 
 O hardware considerado para todos os experimentos, tanto para o treinamento e avaliação quanto para a inferência, são as seguintes: 2 Processadores Intel(R) Xeon(R) CPU @ 2.20GHz, 25 GB de memória RAM e placa de vídeo Tesla P100-PCIE, informações retiradas no terminal do Google Colaboratory.
